@@ -1,3 +1,6 @@
+# Collaborators: https://www.w3schools.com/
+# Collaborators: https://www.pygame.org/docs/ref/draw.html#pygame.draw.arc
+# Collaborators: Sawyer helped me with drawing piechart
 import pygame
 import math
 from sys import exit 
